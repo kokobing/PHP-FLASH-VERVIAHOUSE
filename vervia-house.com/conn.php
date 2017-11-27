@@ -1,0 +1,19 @@
+<?
+//Êý¾Ý¿âÁ¬½Ó
+$myconn=mysql_connect("localhost","root","a0525260");
+//·þÎñÆ÷ÃÜÂëpurter2005
+mysql_select_db("mcraft",$myconn);
+?>
+<? 
+//¿ª·¢Â·¾¶
+$path="http://www.m-craftgroup.com/2006/en";
+//ÍøÕ¾Ãû³Æ
+$website=":: M-Craft Group ::";
+//ÍøÕ¾logo
+$logo="Administrator";
+//ÍøÕ¾ËÑË÷¹Ø¼ü´Ê
+$google="";
+$baidu="";
+//ÍøÕ¾×Ö·û
+$font="gb2312";
+?>

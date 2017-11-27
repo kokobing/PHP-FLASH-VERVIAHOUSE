@@ -1,0 +1,62 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>Press coverage</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url();
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #00A94F;
+}
+.title {
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 14px;
+}
+.txt {
+	font-family: Arial;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-size: 12px;
+}
+a.txt:hover {  color: #FFCC99; text-decoration: none}
+
+-->
+</style>
+</head>
+
+<body>
+<div align="center">
+  <table width="740" border="0" cellpadding="0" cellspacing="0" class="txt">
+    <tr>
+      <td><img src="../img/i_004.gif" width="412" height="122">
+       
+          <table width="100%"  border="0" cellpadding="0" cellspacing="0" class="txt">
+            <tr>
+              <td valign="top"><p>&nbsp;</p>
+                <p class="title"><strong>Vervia news</strong></p>
+                   <p class="title"><a href="20070903.htm" class="txt">09-03-2007 Vervia’s wedding registry and Zen Hearts collection
+add romantic flair to the Autumn 2007 ZEXY
+Bridal Fiesta exhibition </a></p>
+                <p class="title"><a href="20070810.htm" class="txt">07-08-2007 Vervia starts its sizzling summer sale, offering up to 60% discounts </a></p>
+                <p class="title"><a href="20070713.htm" class="txt">07-07-2007 Vervia kicks off with Vervia Weekend Specials! </a> </p>
+                <p><a href="20070618.htm" class="txt">15-05-2007 Vervia showcases QBITs on the 100% Design Shanghai Preview exhibition</a><br>
+                  <br>
+                <a href="20070531.htm" class="txt">12-06-2007 Vervia's New Summer Collection Sparkles</a></p>
+                <p><a href="20070317.htm" class="txt">10-03-2007 Vervia starts GREAT ‘PIG OUT’ SALE (March 10 - April 8)</a><br>
+                  <br>
+                  <a href="20070202.htm" class="txt">27-01-2007 Vervia – the house of innovation, opens its first retail shop in Shanghai </a><br>                
+                </p>
+              </td>
+            </tr>
+        </table>
+        
+      </td></tr>
+  </table>
+</div>
+</body>
+</html>

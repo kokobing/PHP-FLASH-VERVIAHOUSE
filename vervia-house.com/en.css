@@ -1,0 +1,56 @@
+.link_01 {  font-size: 9pt; color: #FFFFFF; text-decoration: none;	font-family: Arial;}
+a.link_01:hover {  color: #FDA600; text-decoration: none}
+a.link_01:link {  color: #FFFFFF; text-decoration: none}
+
+.link_02 {  font-size: 9pt; color: #333333; text-decoration: none;	font-family: Arial;}
+a.link_02:hover {  color: #FFFFFF; text-decoration: none}
+a.link_02:link {  color: #333333; text-decoration: none}
+
+.link_03 {
+	font-size: 9pt;
+	color: #FF6500;
+text-decoration: none	font-family: Arial;
+}
+a.link_03:hover {  color: #FF6500; text-decoration: underline}
+a.link_03:link {  color: #FF6500; text-decoration: none}
+
+.link_04 {  font-size: 9pt; color: #494949; text-decoration: none;	font-family: Arial;}
+a.link_04:hover {  color: #448322; text-decoration: none}
+a.link_04:link {  color: #494949; text-decoration: none}
+
+.input_01 {
+	COLOR: #7D7D7D;
+	BACKGROUND-COLOR: #F7F7F7;
+	font-size: 9pt;
+	border: 1px solid #D1D1D1;
+}
+
+.input_02{
+	COLOR: #7D7D7D;
+	BACKGROUND-COLOR: #FFFFFF;
+	font-size: 9pt;
+	border: 1px solid #8E8E8E;
+}
+
+.txt {
+	font-size: 9pt;
+	color: #494949;
+	text-decoration: none;
+	line-height: 20px;
+	font-family: Arial;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FF4301;
+	scrollbar-face-color: #EBEBEB;
+	scrollbar-shadow-color: #DADADA; 
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-3dlight-color: #F9F9F9; 
+	scrollbar-darkshadow-color: white;      
+	scrollbar-track-color: #F9F9F9;
+	scrollbar-arrow-color: #FFFFFF;
+}

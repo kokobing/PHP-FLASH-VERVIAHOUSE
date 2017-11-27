@@ -1,0 +1,86 @@
+.m_01 {
+	font-size: 9pt;
+	color: #333333;
+	text-decoration: none;
+	font-family: Arial;
+}
+a.m_01:hover {  color: #FF9900; text-decoration: none}
+
+.m_02 {  font-size: 9pt; color: #666666; text-decoration: none; font-family: Arial;}
+a.m_02:hover {  color: #FF9900; text-decoration: none}
+
+.m_03 {  font-size: 9pt; color: #FF9900; text-decoration: none; font-family: Arial;}
+a.m_03:hover {  color: #F68D91; text-decoration: none}
+
+.m_04 {  font-size: 9pt; color: #494949; text-decoration: none; font-family: Arial;}
+a.m_04:hover {  color: #F24D8B; text-decoration: none}
+
+.link_pt {  font-size: 9pt; color: #666666; text-decoration: none; font-family: Arial;}
+a.link_pt:hover {  color: #DC8DA2; text-decoration: none}
+a.link_pt:link {  color: #DC8DA2; text-decoration: none}
+
+.input {
+	COLOR: #7D7D7D;
+	BACKGROUND-COLOR: #F7F7F7;
+	font-size: 9pt;
+	border: 1px solid #D1D1D1;
+}
+
+.input_2{
+	COLOR: #7D7D7D;
+	BACKGROUND-COLOR: #FFFFFF;
+	font-size: 9pt;
+	border: 1px solid #8E8E8E;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+	scrollbar-face-color: #EBEBEB;
+	scrollbar-shadow-color: #DADADA; 
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-3dlight-color: #F9F9F9; 
+	scrollbar-darkshadow-color: white;      
+	scrollbar-track-color: #F9F9F9;
+	scrollbar-arrow-color: #FFFFFF;
+}
+
+.txt {
+	font-size: 9pt;
+	color: #494949;
+	text-decoration: none;
+	line-height: 20px;
+	font-family: Arial;
+}
+
+.ps {
+	font-size: 9pt;
+	color: #494949;
+	text-decoration: line-through;
+	line-height: 20px;
+	font-family: Arial;
+}
+
+.title {
+	font-size: 9pt;
+	color: #448322;
+	text-decoration: none;
+	line-height: 20px;
+	font-family: Arial;
+}
+
+.db { border-collapse:collapse;}
+.db tr{ background-color:expression('#FFF7FA,#FFFFFF'.split(',')[rowIndex%2]); }
+#scripthiddle {
+	VISIBILITY: hidden
+}
+
+.link_01 { font-size: 9pt; color: #333333; text-decoration: none;}
+a.link_01:hover { color: #006666; text-decoration: none} 
+
+.txt { font-size: 9pt; color: #494949; text-decoration: none; line-height: 20px; } 
+.txt_2 { font-size: 12pt; color: #494949; text-decoration: none; line-height: 20px; } 
+.txt_3 { font-size: 9pt; color: #7D7D7D; text-decoration: none; line-height: 20px; } 
